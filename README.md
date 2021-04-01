@@ -166,7 +166,6 @@ val_loss: 0.0270 - val_accuracy: 0.9922
  weighted avg 0.99 0.99 0.99 276
 
 
-![image](https://user-images.githubusercontent.com/41515202/97676743-16df4380-1ab7-11eb-9463-cfd5ad4e4b3a.png)
 
 
 2 - training accuracy/loss curves demonstrate → high accuracy and little signs of
