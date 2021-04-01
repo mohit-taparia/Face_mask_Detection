@@ -43,11 +43,9 @@ Features
 
 3-Once we know where in the image the face is, we can extract the face Region of Interest (ROI).
 
-![image](https://user-images.githubusercontent.com/41515202/94375362-bdd76500-0130-11eb-9fc3-73b67e2ad162.png)
 
 4-And from there, we apply facial landmarks, allowing us to localize the eyes, nose, mouth, etc
 
-![image](https://user-images.githubusercontent.com/41515202/94375376-d8a9d980-0130-11eb-8a62-8341b74fe2a3.png)
 
 5- Next, we need an image of a mask (with a transparent background) such as the one below:
 
